@@ -1,7 +1,7 @@
 {
   "name": "my-web-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -12,6 +12,6 @@
     "express": "^4.19.2"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   }
 }
